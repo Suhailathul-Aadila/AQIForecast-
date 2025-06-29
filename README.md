@@ -1,4 +1,4 @@
-Air Quality Index Forecasting and Visual Analytics for major Indian cities using CNN-LSTM Models
+#Air Quality Index Forecasting and Visual Analytics for major Indian cities using CNN-LSTM Models
 
 This project uses deep learning to analyse and model Air Quality Index (AQI) data across various Indian cities. The work includes AQI forecasting, temporal pattern learning per city, clustering based on LSTM embeddings, and visualizing monthly trends by city cluster.
 
